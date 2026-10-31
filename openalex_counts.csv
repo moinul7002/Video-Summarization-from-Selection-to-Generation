@@ -1,0 +1,150 @@
+series,category,year,count
+annual_total,all,2010,68
+annual_total,all,2011,94
+annual_total,all,2012,90
+annual_total,all,2013,97
+annual_total,all,2014,125
+annual_total,all,2015,130
+annual_total,all,2016,163
+annual_total,all,2017,149
+annual_total,all,2018,173
+annual_total,all,2019,180
+annual_total,all,2020,165
+annual_total,all,2021,187
+annual_total,all,2022,196
+annual_total,all,2023,269
+annual_total,all,2024,257
+annual_total,all,2025,307
+technology_term,Multimodal,2010,3
+technology_term,Multimodal,2011,2
+technology_term,Multimodal,2012,3
+technology_term,Multimodal,2013,1
+technology_term,Multimodal,2014,5
+technology_term,Multimodal,2015,2
+technology_term,Multimodal,2016,7
+technology_term,Multimodal,2017,12
+technology_term,Multimodal,2018,8
+technology_term,Multimodal,2019,10
+technology_term,Multimodal,2020,8
+technology_term,Multimodal,2021,16
+technology_term,Multimodal,2022,15
+technology_term,Multimodal,2023,24
+technology_term,Multimodal,2024,32
+technology_term,Multimodal,2025,87
+technology_term,CNN,2010,0
+technology_term,CNN,2011,0
+technology_term,CNN,2012,0
+technology_term,CNN,2013,0
+technology_term,CNN,2014,1
+technology_term,CNN,2015,1
+technology_term,CNN,2016,3
+technology_term,CNN,2017,5
+technology_term,CNN,2018,15
+technology_term,CNN,2019,18
+technology_term,CNN,2020,16
+technology_term,CNN,2021,14
+technology_term,CNN,2022,32
+technology_term,CNN,2023,32
+technology_term,CNN,2024,28
+technology_term,CNN,2025,46
+technology_term,RNN/LSTM,2010,0
+technology_term,RNN/LSTM,2011,0
+technology_term,RNN/LSTM,2012,0
+technology_term,RNN/LSTM,2013,1
+technology_term,RNN/LSTM,2014,0
+technology_term,RNN/LSTM,2015,0
+technology_term,RNN/LSTM,2016,2
+technology_term,RNN/LSTM,2017,7
+technology_term,RNN/LSTM,2018,8
+technology_term,RNN/LSTM,2019,21
+technology_term,RNN/LSTM,2020,13
+technology_term,RNN/LSTM,2021,26
+technology_term,RNN/LSTM,2022,20
+technology_term,RNN/LSTM,2023,26
+technology_term,RNN/LSTM,2024,32
+technology_term,RNN/LSTM,2025,29
+technology_term,Transformer,2010,0
+technology_term,Transformer,2011,0
+technology_term,Transformer,2012,0
+technology_term,Transformer,2013,0
+technology_term,Transformer,2014,0
+technology_term,Transformer,2015,0
+technology_term,Transformer,2016,0
+technology_term,Transformer,2017,0
+technology_term,Transformer,2018,0
+technology_term,Transformer,2019,1
+technology_term,Transformer,2020,1
+technology_term,Transformer,2021,5
+technology_term,Transformer,2022,14
+technology_term,Transformer,2023,29
+technology_term,Transformer,2024,16
+technology_term,Transformer,2025,46
+technology_term,LLM/VLM,2010,0
+technology_term,LLM/VLM,2011,0
+technology_term,LLM/VLM,2012,0
+technology_term,LLM/VLM,2013,0
+technology_term,LLM/VLM,2014,0
+technology_term,LLM/VLM,2015,0
+technology_term,LLM/VLM,2016,0
+technology_term,LLM/VLM,2017,0
+technology_term,LLM/VLM,2018,0
+technology_term,LLM/VLM,2019,0
+technology_term,LLM/VLM,2020,0
+technology_term,LLM/VLM,2021,0
+technology_term,LLM/VLM,2022,0
+technology_term,LLM/VLM,2023,4
+technology_term,LLM/VLM,2024,20
+technology_term,LLM/VLM,2025,41
+technology_term,RL,2010,0
+technology_term,RL,2011,0
+technology_term,RL,2012,0
+technology_term,RL,2013,0
+technology_term,RL,2014,0
+technology_term,RL,2015,0
+technology_term,RL,2016,0
+technology_term,RL,2017,0
+technology_term,RL,2018,8
+technology_term,RL,2019,4
+technology_term,RL,2020,7
+technology_term,RL,2021,14
+technology_term,RL,2022,10
+technology_term,RL,2023,10
+technology_term,RL,2024,12
+technology_term,RL,2025,19
+technology_term,GAN,2010,0
+technology_term,GAN,2011,0
+technology_term,GAN,2012,0
+technology_term,GAN,2013,0
+technology_term,GAN,2014,0
+technology_term,GAN,2015,0
+technology_term,GAN,2016,0
+technology_term,GAN,2017,1
+technology_term,GAN,2018,4
+technology_term,GAN,2019,11
+technology_term,GAN,2020,4
+technology_term,GAN,2021,6
+technology_term,GAN,2022,3
+technology_term,GAN,2023,7
+technology_term,GAN,2024,13
+technology_term,GAN,2025,6
+primary_field,Computer Science,2010-2025,2405
+primary_field,Medicine,2010-2025,71
+primary_field,Engineering,2010-2025,44
+primary_field,Social Sciences,2010-2025,43
+primary_field,Psychology,2010-2025,27
+primary_field,Arts and Humanities,2010-2025,10
+primary_field,Agricultural and Biological Sciences,2010-2025,7
+primary_field,"Biochemistry, Genetics and Molecular Biology",2010-2025,6
+primary_field,Health Professions,2010-2025,5
+primary_field,"Business, Management and Accounting",2010-2025,4
+primary_field,Decision Sciences,2010-2025,4
+primary_field,Environmental Science,2010-2025,4
+primary_field,Earth and Planetary Sciences,2010-2025,3
+primary_field,Physics and Astronomy,2010-2025,3
+primary_field,"Economics, Econometrics and Finance",2010-2025,2
+primary_field,Mathematics,2010-2025,2
+primary_field,Neuroscience,2010-2025,2
+primary_field,Chemistry,2010-2025,1
+primary_field,Immunology and Microbiology,2010-2025,1
+primary_field,Materials Science,2010-2025,1
+primary_field,Unassigned,2010-2025,5

@@ -1,0 +1,63 @@
+method,cite_key,year,dataset,approach,uses_audio,uses_text,domain,rouge_1,rouge_2,bleu,f1,kendall_tau,spearman_rho,human_evaluation
+SumGraph,park2020sumgraph,2020,TVSum,GCN,no,no,Generic,,,,0.639,0.094,0.138,yes
+DSNet,zhu2020dsnet,2020,TVSum,CNN,no,no,Generic,,,,0.621,,,yes
+MC-VSA,liu2020transforming,2020,TVSum,LSTM+Memory,no,no,Generic,,,,0.637,0.116,0.142,no
+AC-SUM-GAN,apostolidis2020ac,2020,TVSum,LSTM+GAN,no,no,Generic,,,,0.614,,,no
+AVRN,zhao2021audiovisual,2021,TVSum,RNN,yes,no,Generic,,,,0.597,0.096,0.104,no
+DSR-RL,phaphuangwittayakul2021self,2021,TVSum,RL+LSTM,no,no,Generic,,,,0.602,0.086,0.113,no
+RSGN,zhao2021reconstructive,2021,TVSum,GAN,no,no,Generic,,,,0.601,0.083,0.090,no
+DSAVS,zhong2022deep,2022,TVSum,LSTM+Attention,no,no,Generic,,,,0.598,0.083,0.090,no
+Zhu et al.,zhu2022learning,2022,TVSum,LSTM+Attention,no,no,Generic,,,,0.615,,,no
+DHAVS,lin2022deep,2022,TVSum,LSTM+Attention,no,no,Generic,,,,0.608,0.082,0.089,no
+HMT,zhao2022hierarchical,2022,TVSum,Transformer,no,no,Generic,,,,0.601,0.096,0.107,no
+CA-SUM,apostolidis2022summarizing,2022,TVSum,LSTM+GAN,no,no,Generic,,,,0.614,0.160,0.210,no
+iPTNet,jiang2022joint,2022,TVSum,Transformer,no,no,Generic,,,,0.634,,,no
+KAMV,xie2022knowledge,2022,TVSum,Transformer,yes,yes,Generic,,,,0.638,,0.115,no
+EVES,lew2022eeg,2022,TVSum,CNN,no,no,Generic,,,,,0.075,0.106,yes
+SUM-DCA,pan2022exploring,2022,TVSum,Attention,no,no,Generic,,,,0.604,0.124,0.152,no
+VSS-Net,zhang2023vss,2023,TVSum,CNN+LSTM,no,no,Generic,,,,0.610,0.190,0.249,no
+2SAVS,xu2023self,2023,TVSum,VAE+Attention,no,no,Generic,,,,0.621,0.162,0.237,no
+Pang et al.,pang2023contrastive,2023,TVSum,CNN,no,no,Generic,,,,0.595,0.161,0.212,no
+Wang et al.,wang2023self,2023,TVSum,CNN,no,no,Generic,,,,0.594,0.097,0.079,no
+STVT,hsu2023video,2023,TVSum,Transformer,no,no,Generic,,,,0.671,0.100,0.131,no
+PRLVS,wang2024progressive,2024,TVSum,RL+LSTM,no,no,Generic,,,,0.630,0.080,0.131,no
+VideoSAGE,chaves2024videosage,2024,TVSum,GCN,no,no,Generic,,,,0.582,0.300,0.420,no
+KAMN,xie2024video,2024,TVSum,Transformer+Attention,no,no,Generic,,,,0.638,0.106,0.115,no
+VSumMamba,ding2025vsummamba,2025,TVSum,Mamba,no,no,Generic,,,,0.675,0.192,0.279,no
+GCNCVS,yeh2025graph,2025,TVSum,GCN,no,no,Generic,,,,0.723,0.192,0.279,no
+CFSum,guo2025cfsum,2025,TVSum,Transformer,yes,yes,Generic,,,,0.869,,,no
+DCGM,wu2025multimodal,2025,TVSum,GCN,no,yes,Generic,,,,0.634,0.102,0.116,no
+VideoGraph,park2025language,2025,TVSum,GCN+Transformer,no,yes,Generic,,,,0.695,0.204,0.242,no
+BAA-TSSGraphs,cheng2025unsupervised,2025,TVSum,GCN,no,no,Generic,,,,0.621,0.114,0.086,no
+DDPM,shang2025video,2025,TVSum,Diffusion,no,no,Generic,,,,0.648,0.179,0.238,no
+SGNet,yao2025sgnet,2025,TVSum,GCN,no,yes,Generic,,,,0.676,0.210,0.237,no
+SummDiff,kim2025summdiff,2025,TVSum,Diffusion,no,no,Generic,,,,,0.173,0.226,no
+D-MmT,liu2021d,2021,How2,Transformer,yes,yes,Instruction,0.616,0.451,0.603,,,,no
+SFFG,liu2022abstractive,2022,How2,Transformer,yes,yes,Instruction,0.632,0.464,0.615,,,,yes
+MAS-BERT,argade2024multimodal,2024,How2,Transformer,yes,yes,Instruction,0.600,0.303,,,,,yes
+MOF,zhu2020multimodal,2020,MSMO,LSTM,no,yes,News,0.412,0.183,,0.655,,,yes
+HCSCL,zhang2022hierarchical,2022,MSMO,Transformer,no,yes,News,0.436,0.290,0.396,,,,yes
+CAE-MVS,ji2020cross,2020,MVS1K,Autoencoder,no,yes,Generic,,,,0.574,,,yes
+DeepQAMVS,messaoud2021deepqamvs,2021,MVS1K,CNN+Attention,no,yes,Generic,,,,0.576,,,yes
+QSAN,xiao2020query,2020,QFVS,Attention+Memory,no,yes,Egocentric,,,,0.466,,,no
+CHAN,xiao2020convolutional,2020,QFVS,CNN+Attention,no,no,Surveillance,,,,0.469,,,no
+MCF,dai2025modality,2025,BLiSS,Transformer,no,yes,Generic,0.529,0.423,,,,,no
+Nagar et al.,nagar2021generating,2021,Disney,LSTM,no,no,Egocentric,,,0.74,0.357,,,yes
+Multi-ranker,saquil2021multiple,2021,FineGym,CNN,no,no,Sports,,,,,0.393,0.481,yes
+FCN-LectureNet,davila2021fcn,2021,LectureMath,FCN,no,no,Education,,,,0.741,,,no
+M^2SM,fu2021mm,2021,MM-AVS,LSTM+Memory,no,yes,News,0.413,0.179,,,,,yes
+Multi-DPP,elfeki2022multi,2022,Multi-Ego,DPP,no,no,Egocentric,,,,0.283,,,yes
+EduSum,benedetto2024abstractive,2024,OpenCourseWare,Transformer,no,no,Education,0.298,0.061,,,,,no
+online motion-AE,zhang2020unsupervised,2020,OrangeVille,Autoencoder,no,no,Surveillance,,,,0.290,,,yes
+Moment-DETR,lei2021detecting,2021,QVHighlights,Transformer,no,yes,"Vlogs, News",,,,,,,yes
+AVSUM,kopru2022use,2022,RECOLA,CNN,no,no,Cognitive,,,,0.575,,,no
+HMA,sanabria2021hierarchical,2021,Soccer,CNN+Attention,yes,no,Sports,,,,0.741,,,no
+Khan et al.,khan2020content,2020,Sports,CNN+LSTM,yes,no,Sports,,,,0.799,,,no
+CSTA,son2024csta,2024,SumMe,CNN+Attention,no,no,Generic,,,,0.544,0.246,0.274,no
+Zhu et al.,zhu2023topic,2023,TopicSum,Transformer,yes,yes,Movies,,,,0.561,,,yes
+mvsDGCN,wu2020dynamic,2020,Tour20,GCN,no,no,Tourism,,,,0.627,,,no
+DIMS,li2020vmsmo,2020,VMSMO,LSTM,no,yes,News,0.251,0.096,,,,,yes
+Adv-Ptr-Der-SUM,lan2021recurrent,2021,WCE,RNN+Pointer,no,no,Medical,,,,0.455,,,no
+IV-Sum,narasimhan2022tl,2022,WikiHow,CNN+LSTM,no,no,Instruction,,,,0.679,0.101,0.212,yes
+TAMT,shang2021multimodal,2021,YouCook2,Transformer,no,yes,Instruction,,,0.104,,,,yes
+DASP,ji2020deepattentive,2020,YouTube,LSTM+Attention,no,yes,News,,,,0.699,,,no
