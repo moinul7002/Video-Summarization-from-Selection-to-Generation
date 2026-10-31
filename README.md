@@ -2,6 +2,10 @@
 
 This repository contains the data behind the survey *Video Summarization from Selection to Generation: A Critical Survey of Methods, Evaluation, and the Transition to Multimodal Foundation Models* (M.M. Islam, S. Kakouros, J. Heikkilä and M. Oussalah). It has no new experimental data. The files list the studies cited in the review, the performance values taken from those studies, and the publication counts used in Figure 1.
 
+## Scope of the reviewed literature
+
+The review covers video summarization research published between 2016 and 2025. Studies were identified through searches of major digital libraries and conference proceedings, followed by backward and forward citation snowballing from the included studies and from earlier surveys. Studies were included if they propose, evaluate, or benchmark a video summarization method, dataset, metric, or evaluation protocol. The final set contains 270 works from 2016 to 2025, including 23 surveys and 6 preprints, and 62 of them report the quantitative results collected in `extracted_results.csv`.
+
 ## Files
 
 ### `reviewed_studies.csv`
